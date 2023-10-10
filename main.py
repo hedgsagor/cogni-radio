@@ -5,7 +5,7 @@ from discord import FFmpegPCMAudio
 from discord import Embed
 from discord.ext.commands import Bot
 
-token = "MTE2MDY3ODExNzEwNzU2NDYxNQ.G3yVm5.FPnKEWFxNzFgq6cN__58yKAadn11-nQZeaZjx4"
+token = "Token"
 prefix = "%"
 
 # Define los Intents que necesitas
